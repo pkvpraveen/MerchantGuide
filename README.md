@@ -22,9 +22,10 @@ A number written in Arabic numerals can be broken into digits. For example, 1903
 
 -- Source: Wikipedia (http://en.wikipedia.org/wiki/Roman_numerals) Input to your program consists of lines of text detailing your notes on the conversion between intergalactic units and roman numerals. You are expected to handle invalid queries appropriately.
 
-
 Test input:
+
 glob is I
+
 prok is V
 pish is X
 tegj is L
