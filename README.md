@@ -25,7 +25,6 @@ A number written in Arabic numerals can be broken into digits. For example, 1903
 Test input:
 
 glob is I
-
 prok is V
 pish is X
 tegj is L
